@@ -1,0 +1,6 @@
+### 1. Why do you want to become a Software Engineer?
+**Answer:** I enjoy solving problems and building useful applications through programming. As I learned Python and software development, I realized I like creating solutions that can help people. I want to keep improving my technical skills, work on real-world projects, and grow as a software engineer while contributing to a company's success.
+
+## 2.Explain Python execution.
+**Answer:** The code written by the programmer is called the source code and is stored in a .py file. When we execute the program, the operating system starts the Python interpreter and loads it into memory. The interpreter reads the source code, and the lexer breaks it into small meaningful units called tokens. These tokens are passed to the parser, which checks the syntax and builds an Abstract Syntax Tree (AST) representing the structure of the program. The compiler then converts the AST into bytecode, an intermediate language understood by the Python Virtual Machine (PVM). The PVM executes the bytecode, interacting with the operating system whenever it needs resources such as files or network access. Finally, the CPU executes the necessary machine instructions, and the program's output is displayed.
+
