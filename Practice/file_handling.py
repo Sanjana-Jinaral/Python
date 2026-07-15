@@ -1,0 +1,6 @@
+# >>> x = ('Masala','lemon','ginger')
+# >>> y=enumerate(x)
+# >>> y
+# <enumerate object at 0x000002279CB29D50>
+# >>> list(y)
+# [(0, 'Masala'), (1, 'lemon'), (2, 'ginger')]
